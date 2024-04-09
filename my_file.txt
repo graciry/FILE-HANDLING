@@ -1,0 +1,6 @@
+Line 1: Hello, world!
+Line 2: 12345
+Line 3: Python file handling
+Line 4: Appended line 1
+Line 5: Appended line 2
+Line 6: Appended line 3
